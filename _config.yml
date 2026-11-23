@@ -1,0 +1,8 @@
+title: Adaptive Camera Suite - Official Documentation
+description: Standalone Unreal Engine 5.8 C++ Camera, Depth of Field, and Post-Tonemap RDG HLSL Plugins by Fractum Software (Win64 & Linux).
+theme: jekyll-theme-midnight
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
